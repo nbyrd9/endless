@@ -1,3 +1,3 @@
-function sayhello(){
-    document.write("Hey there. What's up?")
+function getStarted(){
+    document.write("Get started today. The opportunities are endless!")
   }
